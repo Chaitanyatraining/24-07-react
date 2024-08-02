@@ -1,3 +1,7 @@
 what is Jsx?
 what is virtual DOM?
 what is components and types?
+what is props?
+    // props is an object, which is used to pass data from one component to another.
+    
+what is state?
