@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class UsersList extends Component {
+export class Counter extends Component {
   constructor(){
     super()
 
@@ -36,4 +36,4 @@ export class UsersList extends Component {
   }
 }
 
-export default UsersList
+export default Counter
